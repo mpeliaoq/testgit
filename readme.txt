@@ -12,5 +12,6 @@ add a new line here and add more.
 
 Creating a new brach is quick 
 
-<<NEW line>> for branch use 
+<<NEW line>> for branch use & simple.
+
 
